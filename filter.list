@@ -5,6 +5,7 @@ https://iplists.firehol.org/files/cybercrime.ipset
 https://iplists.firehol.org/files/dyndns_ponmocup.ipset
 https://iplists.firehol.org/files/et_block.netset
 https://iplists.firehol.org/files/et_compromised.ipset
+https://iplists.firehol.org/files/firehol_level1.netset
 https://iplists.firehol.org/files/firehol_level2.netset
 https://iplists.firehol.org/files/firehol_level3.netset
 https://iplists.firehol.org/files/normshield_high_attack.ipset
@@ -14,3 +15,10 @@ https://iplists.firehol.org/files/spamhaus_drop.netset
 https://iplists.firehol.org/files/urlvir.ipset
 https://iplists.firehol.org/files/dshield.netset
 https://iplists.firehol.org/files/firehol_webserver.netset
+https://iplists.firehol.org/files/vxvault.ipset
+https://iplists.firehol.org/files/et_compromised.ipset
+https://iplists.firehol.org/files/dm_tor.ipset
+https://iplists.firehol.org/files/cruzit_web_attacks.ipset
+https://iplists.firehol.org/files/voipbl.netset
+https://iplists.firehol.org/files/socks_proxy.ipset
+https://iplists.firehol.org/files/xroxy.ipset
