@@ -1,3 +1,14 @@
+0.0.0.0 push-rtmp-f5-sg01.tiktokcdn.com
+0.0.0.0 webcast22-normal-c-useast1a.tiktokv.com
+0.0.0.0 firebaselogging-pa.googleapis.com
+0.0.0.0 pull-f5-tt01.fcdn.us.tiktokv.com
+0.0.0.0 pull-hls-q5-sg01.tiktokcdn.com
+0.0.0.0 pull-cmaf-f16-va01.tiktokcdn.com
+0.0.0.0 pull-hls-l10-sg01.tiktokcdn.com
+0.0.0.0 pull-hls-q16-sg01.tiktokcdn.com
+0.0.0.0 push-rtmp-l16-va01.tiktokcdn.com
+0.0.0.0 pull-f5-gcp01.tiktokcdn.com
+0.0.0.0 pull-cmaf-l16-va01.tiktokcdn.com
 0.0.0.0 benaughty.app
 0.0.0.0 www.benaughty.app
 0.0.0.0 chatdate.app
