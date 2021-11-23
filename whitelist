@@ -40,9 +40,11 @@ clients5.google.com
 clients6.google.com
 client-s.gateway.messenger.live.com
 cloudsync-prod.s3.amazonaws.com
+cloudservices.roku.com
 connectivitycheck.android.com
 connectivitycheck.gstatic.com
 continuum.dds.microsoft.com
+cooper.logs.roku.com
 cws-hulu.conviva.com
 ctldl.windowsupdate.com
 def-vef.xboxlive.com
@@ -82,6 +84,7 @@ iadsdk.apple.com
 init.itunes.apple.com
 instantmessaging-pa.googleapis.com
 i.s-microsoft.com
+liberty.logs.roku.com
 licensing.xboxlive.com
 licensing.mp.microsoft.com
 live.com
@@ -89,7 +92,7 @@ login.live.com
 login.microsoftonline.com
 login5.spotify.com
 maurerr.github.io
-metric.icloud.com
+metrics.icloud.com
 metrics.roblox.com
 microsoftonline.com
 mobile.pipe.aria.microsoft.com
@@ -142,6 +145,7 @@ ssl.google-analytics.com
 starget.intel.com
 storage.live.com
 storeedgefd.dsx.mp.microsoft.com
+sur.telemetry.intel.com
 t2.hulu.com
 telemetry.dropbox.com
 telemetry.malwarebytes.com
@@ -150,6 +154,9 @@ title.mgt.xboxlive.com
 tlu.dl.delivery.mp.microsoft.com
 tracking.epicgames.com
 ui.skype.com
+umwatson.events.data.microsoft.com
+upload.fp.measure.office.com
+upload2.fp.measure.office.com
 v.w-x.co
 video-stats.l.google.com
 v10.events.data.microsoft.com
