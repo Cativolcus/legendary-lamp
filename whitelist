@@ -15,12 +15,10 @@ api-v.vzmessages.com
 becws.microsoftonline.com
 blobs.officehome.msocdn.com
 browser.pipe.aria.microsoft.com
-ca.iadsdk.apple.com
 cdn.odc.officeapps.live.com
 cdn.uci.officeapps.live.com
 cert.mgt.xboxlive.com
 checkappexec.microsoft.com
-cf.iadsdk.apple.com
 clients1.google.com
 clients2.google.com
 clients3.google.com
@@ -60,7 +58,6 @@ gstatic.com
 help.ui.xboxlive.com
 hostfiles.frogeye.fr
 hulu.hb.omtrdc.net
-iadsdk.apple.com
 init.itunes.apple.com
 instantmessaging-pa.googleapis.com
 i.s-microsoft.com
